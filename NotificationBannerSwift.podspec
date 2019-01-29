@@ -15,6 +15,7 @@ NotificationBanner is an extremely customizable and lightweight library that mak
 
     s.ios.deployment_target = '9.0'
 
+    s.swift_version = '4.2'
     s.source_files = 'NotificationBanner/Classes/**/*'
 
     s.dependency 'SnapKit', '~> 4.2.0'
